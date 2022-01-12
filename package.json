@@ -11,7 +11,7 @@
     "core-js": "^3.6.4",
     "element-ui": "^2.13.1",
     "highlight.js": "^10.0.1",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "marked": "^1.0.0",
     "mavon-editor": "^2.9.0",
     "text-loader": "^0.0.1",
